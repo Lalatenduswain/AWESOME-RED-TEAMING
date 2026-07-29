@@ -67,6 +67,7 @@ A curated list of resources for learning and mastering Red Teaming, designed for
 - [SCF File for Hash Gathering](https://1337red.wordpress.com/using-a-scf-file-to-gather-hashes/) - Using SCF files for credential harvesting.
 
 ## Discovery
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 - [BloodHound Introduction](https://wald0.com/?p=68) - Mapping Active Directory attack paths.
 - [PowerView for Group Scoping](https://www.harmj0y.net/blog/activedirectory/a-pentesters-guide-to-group-scoping/) - Enumerating AD groups.
 - [SPN Discovery](https://pentestlab.blog/2018/06/04/spn-discovery/) - Service Principal Name enumeration.
